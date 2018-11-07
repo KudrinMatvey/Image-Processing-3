@@ -1,0 +1,8 @@
+﻿  ConsoleApplication1.cpp
+c:\users\матвей\documents\visual studio 2015\projects\image processing 3\consoleapplication1\consoleapplication1.cpp(259): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\матвей\documents\visual studio 2015\projects\image processing 3\consoleapplication1\consoleapplication1.cpp(260): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\матвей\documents\visual studio 2015\projects\image processing 3\consoleapplication1\consoleapplication1.cpp(12): warning C4101: b: неиспользованная локальная переменная
+c:\users\матвей\documents\visual studio 2015\projects\image processing 3\consoleapplication1\consoleapplication1.cpp(12): warning C4101: g: неиспользованная локальная переменная
+c:\users\матвей\documents\visual studio 2015\projects\image processing 3\consoleapplication1\consoleapplication1.cpp(12): warning C4101: r: неиспользованная локальная переменная
+  ConsoleApplication1.vcxproj -> C:\Users\Матвей\Documents\Visual Studio 2015\Projects\Image Processing 3\x64\Debug\Image Processing 3.exe
+  ConsoleApplication1.vcxproj -> C:\Users\Матвей\Documents\Visual Studio 2015\Projects\Image Processing 3\x64\Debug\Image Processing 3.pdb (Full PDB)

@@ -1,0 +1,5 @@
+﻿  Hough.cpp
+c:\users\матвей\documents\visual studio 2015\projects\image processing 3\consoleapplication1\hough.cpp(24): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "stdafx.h"" в источник.
+  ConsoleApplication1.cpp
+c:\users\матвей\documents\visual studio 2015\projects\image processing 3\consoleapplication1\consoleapplication1.cpp(5): fatal error C1083: Не удается открыть файл включение: opencv2/highgui/highgui.hpp: No such file or directory
+  Создание кода...
